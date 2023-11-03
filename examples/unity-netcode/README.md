@@ -53,7 +53,8 @@ for the client. Locally, you can run 2 clients to test.
   Scnes/GameTest
   ```
 
-  * The Builds are created in a `Builds/Server` Folder and **Saved As** `Server`.
+  * Make sure the Builds are created in `Builds/Server` Folder and **Saved As** `Server`.
+  * Click **Build**.
 
 ### Running the Dedicated Game Server
 
